@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image" : "https://www.ikea.com/PIAimages/0736744_PE740418_S5.JPG",
+        "title" : "The Coldest Sunset",
+        "description" : "A beautiful sunset in the coldest place on earth. Witness the breathtaking view as the sun paints the sky with vibrant colors. Experience the tranquility and serenity of nature at its finest. Capture this magical moment and create memories that will last a lifetime. Don't miss out on this incredible opportunity to immerse yourself in the wonders of nature. Take a deep breath and let the crisp air fill your lungs. Feel the soft snow beneath your feet as you explore the untouched wilderness. This is a journey you won't want to miss!"
+    },
+    {
+        "id": 2,
+        "image" : "https://www.example.com/image2.jpg",
+        "title" : "The Majestic Mountains",
+        "description" : "Experience the grandeur of the majestic mountains. Stand in awe as you gaze upon their towering peaks. Feel the power of nature as you hike through rugged trails and discover hidden valleys. Let the fresh mountain air invigorate your senses and rejuvenate your soul. This is a journey that will leave you breathless."
+    },
+    {
+        "id": 3,
+        "image" : "https://www.example.com/image3.jpg",
+        "title" : "The Enchanting Forest",
+        "description" : "Step into the enchanting forest and be transported to a world of magic and wonder. Explore the lush greenery and listen to the whispers of the trees. Discover hidden creatures and witness the beauty of nature in its purest form. Let the tranquility of the forest wash over you and find peace in its embrace."
+    },
+    {
+        "id": 4,
+        "image" : "https://www.example.com/image4.jpg",
+        "title" : "The Serene Beach",
+        "description" : "Escape to the serene beach and let the waves wash away your worries. Feel the warm sand between your toes as you stroll along the shore. Dive into the crystal-clear waters and discover a vibrant underwater world. Relax under the shade of palm trees and let the gentle sea breeze soothe your soul. This is paradise found."
+    },
+    {
+        "id": 5,
+        "image" : "https://www.example.com/image5.jpg",
+        "title" : "The Vibrant City",
+        "description" : "Immerse yourself in the vibrant energy of the city. Explore bustling streets filled with life and culture. Indulge in delicious cuisine from around the world. Marvel at iconic landmarks and soak in the rich history and architecture. Experience the excitement of the city that never sleeps and create memories that will last a lifetime."
+    }
+]
